@@ -5,8 +5,7 @@
 
 3 - Com o  Spring Tools Suite aberto na File selecione Open Projects from File System e selecione o diretório do projeto clonado
 
-4 - Ao finalizar a importação bastar ir nas propriedades do projeto e ir no Java BuildPath e importar o java-json e o jsoup-1.13.1 que está na pasta do projeto e depois
-    executar o projeto como Spring APP.
+4 - Ao finalizar a importação bastar executar o projeto como Spring APP.
 
 5 - Abra seu navegador e digite a rota http://localhost:9001/ para entrar na index
 
