@@ -10,12 +10,12 @@
 5 - Abra seu navegador e digite a rota http://localhost:9001/ para entrar na index
 
 
-Tecnologias Utilizadas:
-JQuery
-JQuery.mask
-JavaScript
-Java
-MaterialDesign
-LocalStorage
-HTML 
+Tecnologias Utilizadas:<br>
+JQuery, 
+JQuery.mask, 
+JavaScript, 
+Java, 
+MaterialDesign, 
+LocalStorage, 
+HTML, 
 CSS
